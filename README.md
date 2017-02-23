@@ -37,4 +37,6 @@ vi .env
 APP_DEBUG=false  //生产环境使用自定义404页面
 
 DEBUGBAR_ENABLE=true  //开启debugbar
+
+APP_LOG_PATH=/var/logs/laravel.log //自定义日志路径
 ```
